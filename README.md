@@ -1,5 +1,6 @@
-Hello Git and GitHub
 
+
+**This repository is used to host an image that is used as an asset in a p5.js project, created by a student of mine for the Girls Who Code 2023 Summer Session.**
 
 For image hosting used in a p5.js / p5play project, I used jsdelivr to host the image. raw git is no longer in service. 
 
